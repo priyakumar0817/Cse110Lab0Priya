@@ -17,7 +17,8 @@ git add
 
 Some things about me: 
 
-<img src=https://cdn.discordapp.com/attachments/996760930207662190/1025214222717693952/CB3C92F1-90D7-46A5-87D2-4B52472298EB.jpg width="250" />
+[Here's a picture of myself](https://cdn.discordapp.com/attachments/996760930207662190/1025214222717693952/CB3C92F1-90D7-46A5-87D2-4B52472298EB.jpg)
+
 
 [Here's a link to a link of a lovely photo of SF](pic.md)
 
