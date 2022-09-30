@@ -1,5 +1,3 @@
-remote_theme: LeNPaul/Millennial
-
 
 # **Priya Kumar**
 ## An Introduction to *```Me```*
